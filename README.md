@@ -39,6 +39,8 @@ git clone https://github.com/mtran2022/Week3_assignment.git
 
 #### Build the image and run
 ```
+virtualenv sentiment
+source sentiment/bin/activate
 cd Week3_assignment
 docker build -t sentiment .
 docker run -p 127.0.0.1:8000:8000 sentiment
