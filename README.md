@@ -45,3 +45,9 @@ cd Week3_assignment
 docker build -t sentiment .
 docker run -p 127.0.0.1:8000:8000 sentiment
 ```
+#### Use the application
+```
+Open url http://127.0.0.1:8000/form
+Enter a comment and click Submit Query
+The comment sentiment will be displayed.
+```
