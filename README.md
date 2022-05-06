@@ -4,8 +4,8 @@ This application is designed to assess the sentiment of a given comment.
 ```
 sudo apt update
 sudo apt install python3-pip python3-dev
-sudo -H pip3 install --upgrade pip
-sudo -H pip3 install virtualenv
+sudo pip3 install --upgrade pip
+sudo pip3 install virtualenv 
 ```
 #### Install Docker
 ```
