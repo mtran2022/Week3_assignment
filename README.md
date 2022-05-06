@@ -1,4 +1,4 @@
-This application is design to assess the sentiment of a given comment.
+This application is designed to assess the sentiment of a given comment.
 
 #### Install packages in WSL2 Ubuntu Root
 ```
